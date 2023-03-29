@@ -12,3 +12,14 @@
     color: white;
     border-radius: 20px;
 }
+.LOGO{
+    height: 40px;
+    width: 40px;
+    padding-right: 2px;
+    height: 100px;
+    width: 100px;
+}
+.logo_div{
+    color: white;
+    font-size: x-large;
+}
