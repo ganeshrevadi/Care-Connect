@@ -1,0 +1,14 @@
+.FORM{
+    display: flex;
+    text-align: center;
+   padding-left:35vw;
+}
+.footer_section layout_padding{
+    transform: translateX(-50vw);
+    margin-right: 50vw;
+}
+.BTN{
+    background-color: #250d52;
+    color: white;
+    border-radius: 20px;
+}
